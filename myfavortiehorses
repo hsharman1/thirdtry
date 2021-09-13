@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+</body>
+
+
+<head>
+<style>
+#TheHorsesIHaveRiden {
+      background-color: green;
+      color: black;
+      padding: 30px;
+      text-align: center;
+  }
+  </style>
+</head>
+
+<body>
+<h2 id="TheHorsesIHaveRiden"> The Horses I Have Riden</h2>
+
+</body>
+
+
+<p>Triple H provides horses that have been retired from jumping, racing or owners unable to care for them.</p>
+
+
+<table style="width:100%">
+<tr>
+<th>My age 2 1/2</th>
+<th>My age 10</th>
+<th>My age 19</th>
+</tr>
+<tr>
+  <td>Scout</td>
+  <td>Laz</td>
+  <td>Daisy</td>
+</tr>
+<tr>
+  <td>Peppermint</td>
+  <td>Apple</td>
+  <td>Carrots</td>
+</tr>
+</table>
+<style>
+.names {
+  background-color: blue;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+</style>
+</head>
+<body>
+
+<div class="names">
+  <h2>Scout</h2>
+  <p>Mongolian pony</p>
+</div>
+
+<div class="names">
+  <h2>Laz</h2>
+  <p>Appaloosa</p>
+</div>
+
+<div class="names">
+  <h2>Daisy</h2>
+  <p>Clydesdale</p>
+</div>
+
+<h3>My favorite time is spending being with my Dad and Laz.</h3>
+  <ol>
+
+  <li>Scout</li>
+
+  <li>Laz</li>
+
+  <li>Daisy</li>
+
+  </ol>
+
+</body>
+
+<body>
+  <a href="http://www.triple-h.org"</a>   <img src="Images/hrsdad.jpg" alt="My favorite time is spending time with Dad and Laz">
+
+
+</body>
+</html>
